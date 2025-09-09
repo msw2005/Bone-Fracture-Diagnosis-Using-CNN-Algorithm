@@ -31,7 +31,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/msw2005/CNN-for-Medical-Analysis.git  
+git clone https://github.com/msw2005/CNN-for-Medical-Analysis](https://github.com/msw2005/Bone-Fracture-Diagnosis-Using-CNN-Algorithm.git  
 Install required packages
 
 bash
