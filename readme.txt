@@ -6,4 +6,4 @@ To run the code in the file please change the path of 'train_generator' and 'val
 At lines 11 and 19 respectively in the python file.
 In the code, currently the paths are set the the path of those folders in my computer.
 
-Thank you!
+Thanks.
