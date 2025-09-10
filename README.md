@@ -18,7 +18,7 @@ Easily extensible and modifiable for different medical imaging datasets
 Getting Started
 Prerequisites
 
-Python 3.x
+Python 3.9x
 
 Common libraries such as TensorFlow or PyTorch (depending on implementation)
 
