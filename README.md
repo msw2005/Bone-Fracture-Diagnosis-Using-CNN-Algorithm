@@ -1,6 +1,6 @@
 CNN-for-Medical-Analysis
 
-Author
+Author:
 M Sadiq Warsi
 
 About
