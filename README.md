@@ -41,7 +41,7 @@ Run CNN model scripts or notebooks for training and inference. Adjust dataset pa
 Usage
 The repository contains scripts and/or notebooks to:
 
-Load datasets
+Load datasets:
 
 Configure model parameters
 
