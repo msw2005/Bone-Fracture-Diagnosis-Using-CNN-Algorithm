@@ -14,7 +14,7 @@ train_generator = train_datagen.flow_from_directory(
     class_mode='binary'
 )
 
-# Option 2: Escaping the backslashes
+# Option 2:Escaping the backslashes
 val_generator = val_datagen.flow_from_directory(
     'C:\\Users\\Ali\\OneDrive - University of Greenwich\\Pictures\\archive (6)\\val',
     target_size=(64, 64),
