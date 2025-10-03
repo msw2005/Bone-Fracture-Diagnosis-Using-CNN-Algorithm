@@ -13,7 +13,7 @@ Support for preprocessing and augmentation of medical images
 
 Training, validation, and testing pipeline for image classification
 
-Easily extensible and modifiable for different medical imaging datasets
+Easily extensible and modifiable for different medical imaging datasets;
 
 Getting Started
 Prerequisites
