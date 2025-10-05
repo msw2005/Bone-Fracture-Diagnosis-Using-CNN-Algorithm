@@ -23,7 +23,7 @@ Python 3.9.0x
 
 Common libraries such as TensorFlow or PyTorch (depending on implementation)
 
-NumPy, Pandas, OpenCV, or Pillow for image processing
+NumPy, Pandas, OpenCV, or Pillow for image processin'
 
 Jupyter Notebook or IDE for running experiments
 
