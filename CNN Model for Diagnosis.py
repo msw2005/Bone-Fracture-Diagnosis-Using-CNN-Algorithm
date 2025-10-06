@@ -1,6 +1,6 @@
 from keras.preprocessing.image import ImageDataGenerator
 
-# Create an ImageDataGenerator for the training data
+# Create an ImageDataGenerator for the training dataset
 train_datagen = ImageDataGenerator(rescale=1./255)
 
 # Create an ImageDataGenerator for the validation data
