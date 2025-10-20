@@ -4,7 +4,7 @@ from keras.preprocessing.image import ImageDataGenerator
 train_datagen = ImageDataGenerator(rescale=1./255)
 
 
-# Create an ImageDataGenerator for the validation data
+# Create an ImageDataGenerator for the validation dataset
 val_datagen = ImageDataGenerator(rescale=1./255)
 
 # Option 1: Using raw strings
