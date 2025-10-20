@@ -11,7 +11,7 @@ Implementation of CNN architectures tailored for medical image data
 
 Support for preprocessing and augmentation of medical images
 
-Training, validation, and testing pipeline for image classification
+Training, validation, and testing pipeline for image classification.
 
 
 Easily extensible and modifiable for different medical imaging datasets;
