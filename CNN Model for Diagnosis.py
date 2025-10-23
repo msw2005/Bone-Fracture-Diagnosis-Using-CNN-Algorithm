@@ -104,7 +104,7 @@ for i in range(len(images)):
     plt.title(f"True: {true_class_names[i]}, Predicted: {predicted_class_names[i]}")
     plt.show()    
 
-# Train the model on the training data and capture the history
+# Train the model on the training data and capture the history.
 history = model.fit(
     train_generator,
     steps_per_epoch=100,
