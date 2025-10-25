@@ -9,7 +9,7 @@ val_datagen = ImageDataGenerator(rescale=1./255)
 
 # Option 1: Using raw strings
 train_generator = train_datagen.flow_from_directory(
-    r'C:\Users\Ali\OneDrive - University of Greenwich\Pictures\archive (6)\train',
+    r'C:\Users\Ali\OneDrive - University of Greenwich\Pictures\archive (6)\train'll
     target_size=(64, 64),
     batch_size=32,
     class_mode='binary'
