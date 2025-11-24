@@ -4,7 +4,7 @@ Author:
 M Sadiq Warsi
 
 About
-This project implements a Convolutional Neural Network (CNN) for medical image analysis and diagnosis. It is designed to assist healthcare professionals by automating the detection and classification of medical images, potentially improving accuracy and efficiency in diagnostics. The code is written entirely in Python.
+This project implements a Convolutional Neural Network (CNN) for medical image analysis and diagnosis. It is designed to assist healthcare professionals by automating the detection and classification of medical images, potentially improving accuracy and efficiency in diagnostics. The code is written entirely in Python;
 
 Features:
 Implementation of CNN architectures tailored for medical image data
