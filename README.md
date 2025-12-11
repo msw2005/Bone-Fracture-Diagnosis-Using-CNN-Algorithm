@@ -16,7 +16,7 @@ Training, validation, and testing pipeline for image classification.
 
 c
 Easily extensible and modifiable for different medical imaging datasets;
-
+s
 Getting Started
 Prerequisites
 
