@@ -50,7 +50,8 @@ Configure model parameters
 
 Train and evaluate the CNN models
 
-Visualize results and generate reports
+Visualize results and generate reports;
+
 
 Contributing
 Contributions and improvements are welcome! Feel free to fork the repo, create branches, and submit pull requests.
