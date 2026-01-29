@@ -91,7 +91,7 @@ predictions = model.predict(images)
 # Convert the predictions to class labels
 predicted_labels = np.argmax(predictions, axis=1)
 
-# Get the class labels from the generator
+# Get the class labels from  generator
 class_labels = list(val_generator.class_indices.keys())
 
 # Convert the true labels and predicted labels to their corresponding class names
