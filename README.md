@@ -21,7 +21,7 @@ Getting Started
 Prerequisites
 
 
-Python 3.9.0x
+Python 3.9.0 x
 
 Common libraries such as TensorFlow or PyTorch (depending on implementation)
 
@@ -48,7 +48,7 @@ Load datasets:
 
 Configure model parameters
 
-Train and evaluate the CNN models
+Train and evaluate the CNN models,
 
 Visualize results and generate reports;
 
