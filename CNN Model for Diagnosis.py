@@ -1,6 +1,6 @@
 from keras.preprocessing.image import ImageDataGenerator
 
-# Create an ImageDataGenerator for the training dataset;xs;
+# Create an ImageDataGenerator for the training dataset; xs;
 train_datagen = ImageDataGenerator(rescale=1./255)
 
 
