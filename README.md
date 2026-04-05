@@ -9,7 +9,7 @@ This project implements a Convolutional Neural Network (CNN) for medical image a
 Features:
 Implementation of CNN architectures tailored for medical image data
 
-Support for preprocessing and augmentation of medical images
+Support for preprocessing and augmentation of medical images.
 x
 Training, validation, and testing pipeline for image classification.
 
