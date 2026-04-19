@@ -19,7 +19,7 @@ Easily extensible and modifiable for different medical imaging datasets;
 s
 Getting Started
 Prerequisites
-
+..
 
 Python 3.9.0 x
 
