@@ -45,7 +45,7 @@ model.fit(
     epochs=10,
     validation_data=val_generator,
     validation_steps=50
-)
+)# defining model parameters here
 
 # Evaluate the model on the validation data
 val_loss, val_acc = model.evaluate(val_generator)
