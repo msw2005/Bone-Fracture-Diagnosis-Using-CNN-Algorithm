@@ -14,6 +14,7 @@ train_generator = train_datagen.flow_from_directory(
     batch_size=32,
     class_mode='binary'
 )
+#raw strings method
 
 # Option 2:Escaping the backslashess
 val_generator = val_datagen.flow_from_directory(
